@@ -48,3 +48,6 @@ To further improve the Basic Password Manager and make it more robust and user-f
 - **Logging and Activity Tracking**: Implement logging to track user actions.
 - **Integration with Browsers**: Develop browser extensions for autofill functionality.
 - **Mobile Application**: Explore creating a mobile version of the password manager.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Basic-Password-Manager/blob/main/LICENSE) file for details.
